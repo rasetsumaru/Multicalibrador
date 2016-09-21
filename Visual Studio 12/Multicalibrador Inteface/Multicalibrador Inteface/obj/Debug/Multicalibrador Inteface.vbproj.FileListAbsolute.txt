@@ -1,0 +1,23 @@
+C:\Users\joaoc\AppData\Local\Temporary Projects\Multicalibrador Inteface\bin\Debug\Multicalibrador Inteface.exe.config
+C:\Users\joaoc\AppData\Local\Temporary Projects\Multicalibrador Inteface\bin\Debug\Multicalibrador Inteface.exe
+C:\Users\joaoc\AppData\Local\Temporary Projects\Multicalibrador Inteface\bin\Debug\Multicalibrador Inteface.pdb
+C:\Users\joaoc\AppData\Local\Temporary Projects\Multicalibrador Inteface\bin\Debug\Multicalibrador Inteface.xml
+C:\Users\joaoc\AppData\Local\Temporary Projects\Multicalibrador Inteface\obj\Debug\Multicalibrador_Inteface.Form_Multicalibrador.resources
+C:\Users\joaoc\AppData\Local\Temporary Projects\Multicalibrador Inteface\obj\Debug\Multicalibrador_Inteface.Resources.resources
+C:\Users\joaoc\AppData\Local\Temporary Projects\Multicalibrador Inteface\obj\Debug\Multicalibrador Inteface.vbproj.GenerateResource.Cache
+C:\Users\joaoc\AppData\Local\Temporary Projects\Multicalibrador Inteface\obj\Debug\Multicalibrador Inteface.exe
+C:\Users\joaoc\AppData\Local\Temporary Projects\Multicalibrador Inteface\obj\Debug\Multicalibrador Inteface.xml
+C:\Users\joaoc\AppData\Local\Temporary Projects\Multicalibrador Inteface\obj\Debug\Multicalibrador Inteface.pdb
+D:\Projetos\Projeto Solitec, Multicalibrador\Visual Studio 12\Multicalibrador Inteface\Multicalibrador Inteface\bin\Debug\Multicalibrador Inteface.exe.config
+D:\Projetos\Projeto Solitec, Multicalibrador\Visual Studio 12\Multicalibrador Inteface\Multicalibrador Inteface\obj\Debug\Multicalibrador Inteface.exe
+D:\Projetos\Projeto Solitec, Multicalibrador\Visual Studio 12\Multicalibrador Inteface\Multicalibrador Inteface\obj\Debug\Multicalibrador Inteface.xml
+D:\Projetos\Projeto Solitec, Multicalibrador\Visual Studio 12\Multicalibrador Inteface\Multicalibrador Inteface\obj\Debug\Multicalibrador Inteface.pdb
+D:\Projetos\Projeto Solitec, Multicalibrador\Visual Studio 12\Multicalibrador Inteface\Multicalibrador Inteface\bin\Debug\Multicalibrador Inteface.exe
+D:\Projetos\Projeto Solitec, Multicalibrador\Visual Studio 12\Multicalibrador Inteface\Multicalibrador Inteface\bin\Debug\Multicalibrador Inteface.pdb
+D:\Projetos\Projeto Solitec, Multicalibrador\Visual Studio 12\Multicalibrador Inteface\Multicalibrador Inteface\bin\Debug\Multicalibrador Inteface.xml
+D:\Projetos\Projeto Solitec, Multicalibrador\Visual Studio 12\Multicalibrador Inteface\Multicalibrador Inteface\obj\Debug\Multicalibrador Inteface.vbprojResolveAssemblyReference.cache
+D:\Projetos\Projeto Solitec, Multicalibrador\Visual Studio 12\Multicalibrador Inteface\Multicalibrador Inteface\obj\Debug\Multicalibrador_Inteface.Form_Multicalibrador.resources
+D:\Projetos\Projeto Solitec, Multicalibrador\Visual Studio 12\Multicalibrador Inteface\Multicalibrador Inteface\obj\Debug\Multicalibrador_Inteface.Resources.resources
+D:\Projetos\Projeto Solitec, Multicalibrador\Visual Studio 12\Multicalibrador Inteface\Multicalibrador Inteface\obj\Debug\Multicalibrador Inteface.vbproj.GenerateResource.Cache
+D:\Projetos\Projeto Solitec, Multicalibrador\Visual Studio 12\Multicalibrador Inteface\Multicalibrador Inteface\obj\Debug\Multicalibrador_Inteface.Form_MessageBox.resources
+D:\Projetos\Projeto Solitec, Multicalibrador\Visual Studio 12\Multicalibrador Inteface\Multicalibrador Inteface\obj\Debug\Multicalibrador_Inteface.Form_SplashScreen.resources
